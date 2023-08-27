@@ -8,6 +8,8 @@ export default defineConfig({
     rollupOptions: {
       external: [
         /^node:.*/,
+        "react-type-animation",
+        "*"
       ]
     }
   }
