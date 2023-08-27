@@ -1,0 +1,56 @@
+[
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Learn%2015%20French%20Words%20and%20Expressions%20for%20ABSOLUTE%20BEGINNERS%20-%20A1%20%5Bwith%20Alicia%5D.mp4?alt=media&token=6eb8ffef-cd81-40ab-adca-0de799b234bc",
+
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg1.jpg?alt=media&token=7bfe9968-fb55-4ae0-91c8-604bbaae159d",
+      "title": "Introduction to French",
+      "description": "Learn the basics of French Language",
+      "price": "$19.99", 
+      "language": "french"
+    },  
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Introduction%20-%20Japanese%20Lesson%201.mp4?alt=media&token=dbd7e144-3779-4683-99c3-ba73335803ea",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg2.jpg?alt=media&token=520e856b-9795-4960-89d8-60fe8f5acd52",
+      "title": "Japanese Fundamentals",
+      "description": "Learn Japanese Language.",
+      "price": "$24.99",
+      "language": "Japanese"
+
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Hangeul%20series%20in%20Hindi%20with%20examples-Part%201-Korean%20simple%20vowels.mp4?alt=media&token=52de87a8-4d7e-439a-bf8a-69759a65ccbb",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg3.jpg?alt=media&token=654588cf-6fa3-40b4-b057-5b4bdaa5b4bc",
+      "title": "Learn Korean Language",
+      "description": "Dive into Korean Language",
+      "price": "$29.99",
+      "language": "Korean"
+
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Watch%20this%20before%20studying%20Japanese%20_%20%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%AD%A6%E3%81%B3%E5%A7%8B%E3%82%81%E3%82%8B%E5%89%8D%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E4%BA%8B.mp4?alt=media&token=ebd4dd1e-27b4-45a2-8660-0ffa41935e31",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg4.jpg?alt=media&token=36094687-f910-4798-9ff0-b23566a0f2fc",
+      "title": "Introduction to French",
+      "description": "Learn the basics of French Language",
+      "price": "$19.99",
+      "language": "french"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Start%20your%20FREE%207-Day%20trial%20NOW!.mp4?alt=media&token=84d6c656-24b4-4639-9b82-850ee730983f",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg5.jpg?alt=media&token=692082b2-f074-4e56-b3fb-c1a766ffbf31",
+      "title": "Japanese Fundamentals",
+      "description": "Learn Japanese Language.",
+      "price": "$24.99",
+      "language": "Japanese"
+
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/Learn%20Spanish%20in%2010%20Minutes%20-%20ALL%20the%20Basics%20You%20Need.mp4?alt=media&token=0fe78dfb-2d60-428a-8874-652e62a3c490",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/thumbnails%2Fimg6.jpg?alt=media&token=aaacfcd1-009e-4b42-a3fe-550da3cf56cf",
+      "title": "Learn Korean Language",
+      "description": "Dive into Korean Language",
+      "price": "$29.99",
+      "language": "Korean"
+
+    }
+  ]
+  
