@@ -9,7 +9,8 @@ export default defineConfig({
       external: [
         /^node:.*/,
         "react-type-animation",
-        "*"
+        "*",
+        "type-animation",
       ]
     }
   }
