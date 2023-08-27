@@ -1,7 +1,8 @@
 import React from 'react';
-import Typical from 'react-typical';
 import image from '../../src/assets/homepageimg.svg';
 import logo from '../../src/assets/speakup.jpg';
+import { TypeAnimation } from 'react-type-animation';
+
 
 function HomePage() {
   return (
@@ -31,20 +32,21 @@ function HomePage() {
           </h3>
           <div className="font-mono text-xl lg:text-3xl mt-4">
             <strong className="px-1">
-              <Typical
-                steps={[
-                  'English "hello"',
-                  3000,
-                  'Spanish "Hola"',
-                  3000,
-                  'Korean "안녕하세요"',
-                  3000,
-                  'Japanese "こんにちは"',
-                  3000,
-                ]}
-                wrapper="p"
-                loop={Infinity}
-              />
+            <TypeAnimation
+        sequence={[
+          'English "hello"',
+          3000,
+          'Spanish "Hola"',
+          3000,
+          'Korean "안녕하세요"',
+          3000,
+          'Japanese "こんにちは"',
+          3000,
+        ]}
+        speed={50}
+        repeat={Infinity}
+        style={{ fontSize: '2em' }}
+      />
             </strong>
           </div>
           <div className="mt-6">
