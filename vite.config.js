@@ -11,6 +11,7 @@ export default defineConfig({
         "react-type-animation",
         "*",
         "type-animation",
+        "react-type-animation/dist/cjs"
       ]
     }
   }
