@@ -1,7 +1,7 @@
 import React from 'react';
 import image from '../../src/assets/homepageimg.svg';
 import logo from '../../src/assets/speakup.jpg';
-import { TypeAnimation } from 'react-type-animation';
+import  { TypeAnimation} from 'react-type-animation/dist/cjs';
 
 
 function HomePage() {
