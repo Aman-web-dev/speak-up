@@ -67,7 +67,7 @@ The gamified quizzes and challenges are addictive! They turn learning into an ex
             </div>
           </div>
           <div class="md:mb-12 lg:mb-0">
-            <img src={testimonailPic}
+            <img src="https://firebasestorage.googleapis.com/v0/b/speakup-aa4f8.appspot.com/o/assests%2FgirlsTalking.jpg?alt=media&token=fed4e865-eb44-4598-ad45-84cd71bbea1a"
               class="lg:rotate-[6deg] w-full rounded-lg shadow-lg dark:shadow-black/20" alt="image" />
           </div>
         </div>

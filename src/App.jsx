@@ -1,5 +1,3 @@
-
-// import './App.css'
 import './index.css'
 import Navbar from './components/Navbar'
 import Player from './components/Player'
@@ -10,15 +8,15 @@ import HomePage from './Pages/HomePage';
 import Events from './Pages/Events';
 import PricingPage from './Pages/PricingPage';
 import Footer from './components/Footer';
+import AuthProvider from './AuthProvider';
+import Signup from './Signup';
+import Login from './Login';
 
 function App() {
 
 
   return (
-    <>
-
-
-
+<AuthProvider>
    <BrowserRouter>
    <Navbar/>
       <Routes>
@@ -28,10 +26,13 @@ function App() {
           <Route path="/features" element={<Features />} />
           <Route path="/events" element={<Events />} />
           <Route path="/pricing" element={<PricingPage />} />
+          <Route path="/user-register" element={<Signup />}/>
+          <Route path="/user-login" element={<Login />}/>
       </Routes>
       <Footer/>
     </BrowserRouter>
-    </>
+</AuthProvider>
+  
   )
 }
 
