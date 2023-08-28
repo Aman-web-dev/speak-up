@@ -9,6 +9,7 @@ import Features from './Pages/Features'
 import HomePage from './Pages/HomePage';
 import Events from './Pages/Events';
 import PricingPage from './Pages/PricingPage';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/pricing" element={<PricingPage />} />
       </Routes>
+      <Footer/>
     </BrowserRouter>
     </>
   )

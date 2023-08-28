@@ -7,7 +7,7 @@ function PricingPage() {
     <div className="bg-white text-black  overflow-hidden ">
       <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3 w-[80vw] my-[10vh]  m-auto ">
         {/* Card 1 */}
-        <div className="p-8 bg-black text-white rounded-lg shadow-lg relative z-10 transform hover:-translate-y-2 transition-transform">
+        <div className="p-8 bg-gray-900 text-white rounded-lg shadow-lg relative z-10 transform hover:-translate-y-2 transition-transform">
         <h2 className="text-2xl  font-semibold mb-4">Basic Plan</h2>
         <p className="text-gray-500 mb-6">Perfect for beginners</p>
         <div className="text-3xl font-semibold mb-8">₹9.99/month</div>
@@ -44,7 +44,7 @@ function PricingPage() {
         
 
         {/* Card 2 */}
-        <div className="p-8 bg-black rounded-lg  text-white shadow-lg relative z-20 transform hover:-translate-y-2 transition-transform">
+        <div className="p-8 bg-gray-900 rounded-lg  text-white shadow-lg relative z-20 transform hover:-translate-y-2 transition-transform">
          
           <h2 className="text-2xl font-semibold mb-4">Pro Plan</h2>
           <p className="text-gray-500 mb-6">For those who want more</p>
@@ -73,13 +73,13 @@ function PricingPage() {
               </li>
             </ol>
           </div>
-          <button className="bg-blue-500 text-white px-6 py-2 rounded-full hover:bg-blue-600 transition-colors">
+          <button className="bg-blue-500 text-white w-[90%] px-6 py-2 rounded-full hover:bg-blue-600 transition-colors">
             Get Started
           </button>
         </div>
 
         {/* Card 3 */}
-        <div className="p-8 bg-black rounded-lg text-white shadow-lg relative z-30 transform hover:-translate-y-2 transition-transform">
+        <div className="p-8 bg-gray-900 rounded-lg text-white shadow-lg relative z-30 transform hover:-translate-y-2 transition-transform">
          
           <h2 className="text-2xl font-semibold mb-4">Premium Plan</h2>
           <p className="text-gray-500 mb-6">For power users</p>
@@ -112,11 +112,7 @@ function PricingPage() {
         </div>
       </div>
 
-      <div className="absolute top-0 bottom-0 left-0 right-0 h-[100] w-full bg-gradient-to-r from-white to-transparent pointer-events-none"></div>
-      <div className="absolute top-0 bottom-0 left-0 right-0 h-[100] w-full bg-gradient-to-b from-white to-transparent pointer-events-none"></div>
-      <div className="absolute top-0 bottom-0 left-0 right-0 h-[100] w-full bg-gradient-to-r from-transparent to-blue-500 pointer-events-none"></div>
-      <div className="absolute top-0 bottom-0 left-0 right-0 h-[100] w-full bg-gradient-to-b from-transparent to-blue-500 pointer-events-none"></div>
-
+      
      
     </div>
   );

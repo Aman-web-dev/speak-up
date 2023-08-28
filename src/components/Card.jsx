@@ -9,7 +9,7 @@ function Card(props) {
   
   return (
 
-<div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-black dark:border-gray-700">
+<div className="max-w-sm bg-white border border-gray-200 rounded-3xl shadow dark:bg-gray-900 dark:border-gray-700">
     <Link  to={`/player`}>
     <div className='pt-6' style={{
 

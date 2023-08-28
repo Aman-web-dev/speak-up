@@ -2,7 +2,7 @@ import Tabs from "./Tabs/tabs";
 
 const Features = () => {
   return (
-    <div className=" h-[90vh] w-[80vw] m-auto px-4 md:px-8 ">
+    <div className=" w-[80vw] m-auto px-4 md:px-8  mb-9">
       <h2 className="text-center text-[1.5rem] font-bold text-very-dark-blue md:text-[2rem]">
         Features
       </h2>

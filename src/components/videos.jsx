@@ -13,6 +13,7 @@ function Video() {
   };
 
   return (
+    <div className='p-4'>
     <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4  m-auto w-[90vw]'>
       {data.map((elem) => (
         <div key={elem.url} onClick={handleClick} id={elem.url}>
@@ -25,6 +26,7 @@ function Video() {
           />
         </div>
       ))}
+    </div>
     </div>
   );
 }
